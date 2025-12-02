@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [live]()
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-5SHkxgKcQ4)
+- Live Site URL: [live](https://lackevil.github.io/stats-preview-card-component/)
 
 ### Built with
 
