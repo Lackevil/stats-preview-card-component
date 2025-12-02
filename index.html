@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <title>Frontend Mentor | Stats preview card component</title>
+    <!-- Reset Styles -->
+    <link rel="stylesheet" href="css/reset.css" />
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <section class="card">
+        <div class="card__content">
+          <h2 class="card__title">
+            Get <span class="highlighted-text">insights</span> that help your
+            business grow.
+          </h2>
+          <p class="card__description">
+            Discover the benefits of data analytics and make better decisions
+            regarding revenue, customer experience, and overall efficiency.
+          </p>
+          <div class="card__row-stats row-stats">
+            <div class="row-stats__item">
+              <h2 class="row-stats__title">10k+</h2>
+              <p class="row-stats__text">companies</p>
+            </div>
+            <div class="row-stats__item">
+              <h2 class="row-stats__title">314</h2>
+              <p class="row-stats__text">templates</p>
+            </div>
+            <div class="row-stats__item">
+              <h2 class="row-stats__title">12M+</h2>
+              <p class="row-stats__text">queries</p>
+            </div>
+          </div>
+        </div>
+        <div class="card__image-block">
+          <picture class="card__image">
+            <source
+              srcset="images/image-header-mobile.jpg"
+              media="(max-width: 640px)"
+            />
+            <img
+              src="images/image-header-desktop.jpg"
+              alt="Three girls work on laptops"
+              width="540"
+              height="446"
+            />
+          </picture>
+        </div>
+      </section>
+    </div>
+    <!-- Get insights that help your business grow. Discover the benefits of data
+    analytics and make better decisions regarding revenue, customer experience,
+    and overall efficiency. 10k+ companies 314 templates 12m+ queries -->
+  </body>
+</html>
