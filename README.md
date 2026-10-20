@@ -36,4 +36,5 @@ Users should be able to:
 
 ## Author
 
+- LinkedIn - [@Nazar Pasechnyi](www.linkedin.com/in/nazar-pasechnyi)
 - Frontend Mentor - [@Lackevil](https://www.frontendmentor.io/profile/Lackevil)
